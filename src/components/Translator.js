@@ -32,7 +32,7 @@ export default function Translator() {
 			method: 'POST', 
 			headers: { 
 				'content-type': 'application/json', 
-				'Ocp-Apim-Subscription-Key': "012baab2131149f3867281e6253a14ee", 
+				'Ocp-Apim-Subscription-Key': "<API KEY>", 
 				'Ocp-Apim-Subscription-Region': 'japanwest'
 			}, 
 			body: JSON.stringify([ 
